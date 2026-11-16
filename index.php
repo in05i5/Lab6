@@ -7,6 +7,7 @@
 <body>
     <h1>QUẢN LÝ PHIÊN BẢN SOURCE CODE</h1>
     <h2>Git và GitHub</h2>
+ <h3>Lan cap nhat thu hai bang Git va GitHub!</h3>
     <p>Xin chào! Đây là bài thực hành Lab 6.</p>
 </body>
 </html>
